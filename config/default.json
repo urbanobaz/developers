@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://urbano:urbano@cluster0-692hp.mongodb.net/social?retryWrites=true",
+  "jwtSecret": "secretToken",
+  "githubClientId": "374b7ecabe674856acb1",
+  "githubSecret": "c1e57ad7a2caef6a2aba503806fd4ff6724fdb0d"
+}
